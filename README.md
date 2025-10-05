@@ -3,30 +3,42 @@
 <h1 align="center">Hi, I'm Hajira 👋</h1>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://YOUR_USERNAME.github.io">Portfolio</a>
+  <a href="mailto:YOUR_PUBLIC_EMAIL">Email</a> •
+  <a href="https://www.linkedin.com/in/hajira-kashifa-444719193/">LinkedIn</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Deep%20Learning%20%7C%20Logic%20%7C%20Systems-blue" />
+  <img src="https://img.shields.io/badge/Role-YOUR_LINKEDIN_HEADLINE-blue" />
+  <img src="https://img.shields.io/badge/Location-YOUR_CITY-lightgrey" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
 </p>
 
 ---
 
-### 👩‍🎓 About me
-- I’m passionate about **Deep Learning**, **autograd/backprop**, and **logic/semantics**
-- I like building small, clear repos and sharing concise **cheat-sheets**
+### 👩‍💻 About me
+- Currently: **YOUR_CURRENT_ROLE / DEGREE / YEAR** at **YOUR_ORGANIZATION / UNIVERSITY**
+- Interests: **TOP_3_AREAS** (e.g., web dev, data analysis, deep learning)
+- I enjoy turning ideas into small, well-documented projects.
 
-### 🛠️ Tech
-Python, NumPy, PyTorch (basics), scikit-learn, Matplotlib, C/C++, Java, JS/TS, Git
+### 🛠️ Skills (from LinkedIn)
+**Languages:** LIST_MAIN_LANGS  
+**Frameworks/Tools:** LIST_TOOLS (e.g., React, Node, NumPy, Pandas, Git, Docker)  
+**Databases/Cloud (if any):** LIST_DB_CLOUD
 
-### 🚀 Featured projects (pin these)
-- **autograd-from-scratch** — minimal scalar/tensor autograd with backward rules
-- **dl-cheatsheets** — A4 notes (regression → softmax/CE → gradient shapes)
-- **logic-semantics-examples** — truth tables, arrays, small interpreter semantics
+### 🚀 Featured projects (pinned)
+- **portfolio-website** — One-page personal site deployed with GitHub Pages
+- **data-notebooks** — Short, clear notebooks showing EDA/visualization or ML basics
 
-### 📫 Reach me
-- **Email:** YOUR_EMAIL  
-- **LinkedIn:** YOUR_LINKEDIN
+> Pin these (Profile → Customize your pins) once you create them below.
+
+### 🧾 Certifications / Achievements (optional)
+- CERTIFICATION_1 — PROVIDER (YEAR)  
+- CERTIFICATION_2 — PROVIDER (YEAR)
+
+### 🎓 Education
+- **YOUR_DEGREE**, **YOUR_MAJOR** — **YOUR_UNIVERSITY**, YEAR or EXPECTED_YEAR
+
+### 📫 Contact
+- **Email:** hajirakashifa@gmail.com
+- **LinkedIn:** <a href="https://www.linkedin.com/in/hajira-kashifa-444719193/">/in/hajira-kashifa-444719193/</a>
